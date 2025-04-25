@@ -1,0 +1,4 @@
+aiogram
+python-dotenv
+pdf2docx
+docx2pdf
