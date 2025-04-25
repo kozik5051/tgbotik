@@ -1,1 +1,3 @@
-python bot.py
+services:
+  app:
+    start: python bot.py
